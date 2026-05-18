@@ -1,0 +1,302 @@
+[
+  {
+    "id": 1,
+    "name": "Lionel Messi",
+    "club": "Inter Miami",
+    "photo": "https://fcb-abj-pre.s3.amazonaws.com/img/jugadors/MESSI.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Cristiano Ronaldo",
+    "club": "Al Nassr",
+    "photo": "https://publish.realmadrid.com/content/dam/portals/realmadrid-com/es-es/sports/football/legendary-players/cristiano-ronaldo-dos-santos-aveiro/assets/1330603286208.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Kylian Mbappe",
+    "club": "Real Madrid",
+    "photo": "https://img.uefa.com/imgml/TP/players/1/2026/cutoff/250076574.webp"
+  },
+  {
+    "id": 4,
+    "name": "Erling Haaland",
+    "club": "Manchester City",
+    "photo": "https://www.mancity.com/meta/media/dkrjtgah/erling-haaland-elec-blue.png"
+  },
+  {
+    "id": 5,
+    "name": "Neymar",
+    "club": "Al Hilal",
+    "photo": "https://img.a.transfermarkt.technology/portrait/big/68290-1692601435.jpg?lm=1"
+  },
+  {
+    "id": 6,
+    "name": "Kevin De Bruyne",
+    "club": "Manchester City",
+    "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTCcDrelLZM0mXJ5kOC_XrcJ2G5ns093lv8A&s"
+  },
+  {
+    "id": 7,
+    "name": "Luka Modric",
+    "club": "Real Madrid",
+    "photo": "https://assets.realmadrid.com/is/image/realmadrid/MODRIC_EQUIPO_CARITA_550X650%20%E2%80%93%201?$Mobile$&fit=wrap&wid=312"
+  },
+  {
+    "id": 8,
+    "name": "Mohamed Salah",
+    "club": "Liverpool",
+    "photo": "https://img.uefa.com/imgml/TP/players/1/2026/cutoff/250052469.webp"
+  },
+  {
+    "id": 9,
+    "name": "Harry Kane",
+    "club": "Bayern Munich",
+    "photo": "https://b.fssta.com/uploads/application/soccer/headshots/453.png"
+  },
+  {
+    "id": 10,
+    "name": "Vinicius Junior",
+    "club": "Real Madrid",
+    "photo": "https://img.uefa.com/imgml/TP/players/1/2026/cutoff/250121533.webp"
+  },
+  {
+    "id": 11,
+    "name": "Jude Bellingham",
+    "club": "Real Madrid",
+    "photo": "https://cdn-img.staticzz.com/img/jogadores/new/75/32/737532_jude_bellingham_20250618231333.png"
+  },
+  {
+    "id": 12,
+    "name": "Robert Lewandowski",
+    "club": "Barcelona",
+    "photo": "https://b.fssta.com/uploads/application/soccer/headshots/2100.png"
+  },
+  {
+    "id": 13,
+    "name": "Pedri",
+    "club": "Barcelona",
+    "photo": "https://www.fcbarcelona.com/photo-resources/2025/09/09/3dd2346c-01bb-4ad9-9b62-ed5cbf8d8b06/08-Pedri.png?width=670&height=790"
+  },
+  {
+    "id": 14,
+    "name": "Gavi",
+    "club": "Barcelona",
+    "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZ2bw0FeyaRkjo_bTPdHZ_K1aX0RTgHu5nLw&s"
+  },
+  {
+    "id": 15,
+    "name": "Karim Benzema",
+    "club": "Al Ittihad",
+    "photo": "https://assets.realmadrid.com/is/image/realmadrid/1330830945339?$Mobile$&fit=wrap&wid=312"
+  },
+  {
+    "id": 16,
+    "name": "Sadio Mane",
+    "club": "Al Nassr",
+    "photo": "https://img.fcbayern.com/image/upload/f_auto/q_auto/t_cms-6x9-seo/v1656496625/cms/public/images/fcbayern-com/players/spielerportraits/ganzkoerper/sadio_mane.png"
+  },
+  {
+    "id": 17,
+    "name": "Son Heung-min",
+    "club": "Tottenham",
+    "photo": "https://external-preview.redd.it/is-son-heung-min-the-greatest-tottenham-player-in-the-21st-v0-hBzcnqrtnHf6NgPFbpiunQute-zaKKSatSRor_SLUu4.png?auto=webp&s=cbc8fe007886626fd2f0548cebd58c337682a449"
+  },
+  {
+    "id": 18,
+    "name": "Bruno Fernandes",
+    "club": "Manchester United",
+    "photo": "https://assets.sorare.com/playerpicture/8f502798-fc4f-4a87-9b03-6fa0d3cfa95d/picture/squared-ee9c69702590b150cfab18d27c414a46.png"
+  },
+  {
+    "id": 19,
+    "name": "Marcus Rashford",
+    "club": "Manchester United",
+    "photo": "https://img.uefa.com/imgml/TP/players/1/2026/cutoff/250088246.webp"
+  },
+  {
+    "id": 20,
+    "name": "Bukayo Saka",
+    "club": "Arsenal",
+    "photo": "https://b.fssta.com/uploads/application/soccer/headshots/68549.png"
+  },
+  {
+    "id": 21,
+    "name": "Martin Odegaard",
+    "club": "Arsenal",
+    "photo": "https://b.fssta.com/uploads/application/soccer/headshots/29113.vresize.350.350.medium.1.png"
+  },
+  {
+    "id": 22,
+    "name": "Declan Rice",
+    "club": "Arsenal",
+    "photo": "https://img.uefa.com/imgml/TP/players/1/2026/324x324/250083732.jpg"
+  },
+  {
+    "id": 23,
+    "name": "Phil Foden",
+    "club": "Manchester City",
+    "photo": "https://img.uefa.com/imgml/TP/players/1/2026/cutoff/250101534.webp"
+  },
+  {
+    "id": 24,
+    "name": "Jack Grealish",
+    "club": "Manchester City",
+    "photo": "https://www.mancity.com/meta/media/2ltdtadg/jack-grealish-elec-blue.png"
+  },
+  {
+    "id": 25,
+    "name": "Bernardo Silva",
+    "club": "Manchester City",
+    "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnYyMko3esUvU66168uEdibwrL1U7BZLxJ7Q&s"
+  },
+  {
+    "id": 26,
+    "name": "Rodri",
+    "club": "Manchester City",
+    "photo": "https://img.uefa.com/imgml/TP/players/1/2026/324x324/250082664.jpg"
+  },
+  {
+    "id": 27,
+    "name": "Antoine Griezmann",
+    "club": "Atletico Madrid",
+    "photo": "https://assets.sorare.com/playerpicture/837f8bb1-d06a-461b-ab7a-d18e6fb83da6/picture/squared-3e7b851beaec215b46447c96851c5385.png"
+  },
+  {
+    "id": 28,
+    "name": "Joao Felix",
+    "club": "Barcelona",
+    "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiljtvUXIghzg6J8cZkvIbb7IM7-gWjMQm1w&s"
+  },
+  {
+    "id": 29,
+    "name": "Paulo Dybala",
+    "club": "Roma",
+    "photo": "https://cdn-img.staticzz.com/img/jogadores/new/57/55/225755_paulo_dybala_20250905234244.png"
+  },
+  {
+    "id": 30,
+    "name": "Lautaro Martinez",
+    "club": "Inter Milan",
+    "photo": "https://img.uefa.com/imgml/TP/players/1/2026/cutoff/250118281.webp"
+  },
+  {
+    "id": 31,
+    "name": "Romelu Lukaku",
+    "club": "Roma",
+    "photo": "https://www.inter.it/img/423505.jpg"
+  },
+  {
+    "id": 32,
+    "name": "Victor Osimhen",
+    "club": "Napoli",
+    "photo": "https://img.uefa.com/imgml/TP/players/1/2026/cutoff/250132987.webp"
+  },
+  {
+    "id": 33,
+    "name": "Khvicha Kvaratskhelia",
+    "club": "Napoli",
+    "photo": "https://img.uefa.com/imgml/TP/players/1/2026/cutoff/250101808.webp"
+  },
+  {
+    "id": 34,
+    "name": "Rafael Leao",
+    "club": "AC Milan",
+    "photo": "https://assets-eu-01.kc-usercontent.com/1293c890-579f-01b7-8480-902cca7de55e/897bd614-ddf4-48cb-8fbd-bebb6d762e87/Leao-Large.png"
+  },
+  {
+    "id": 35,
+    "name": "Zlatan Ibrahimovic",
+    "club": "Retired",
+    "photo": "https://fcb-abj-pre.s3.amazonaws.com/img/jugadors/403_ibrahimovic.jpg"
+  },
+  {
+    "id": 36,
+    "name": "Sergio Ramos",
+    "club": "Sevilla",
+    "photo": "https://assets.realmadrid.com/is/image/realmadrid/1330734572556?$Mobile$&fit=wrap&wid=312"
+  },
+  {
+    "id": 37,
+    "name": "Gerard Pique",
+    "club": "Retired",
+    "photo": "https://cdn.resfu.com/img_data/players/medium/23560.jpg?size=340x&lossy=1"
+  },
+  {
+    "id": 38,
+    "name": "Andres Iniesta",
+    "club": "Emirates Club",
+    "photo": "https://fcb-abj-pre.s3.amazonaws.com/img/jugadors/INIESTA%202017-18.jpg"
+  },
+  {
+    "id": 39,
+    "name": "Xavi Hernandez",
+    "club": "Retired",
+    "photo": "https://fcb-abj-pre.s3.amazonaws.com/img/jugadors/949_xavi.jpg"
+  },
+  {
+    "id": 40,
+    "name": "Thiago Silva",
+    "club": "Chelsea",
+    "photo": "https://cdn-img.staticzz.com/img/jogadores/new/54/81/5481_thiago_silva_20260111115055.png"
+  },
+  {
+    "id": 41,
+    "name": "Virgil van Dijk",
+    "club": "Liverpool",
+    "photo": "https://backend.liverpoolfc.com/sites/default/files/styles/xs/public/2025-08/virgil-van-dijk-2526-action-shot_d021d7281d66a6d39e66088d65c27021.webp?itok=fGvmbvRx"
+  },
+  {
+    "id": 42,
+    "name": "Alisson Becker",
+    "club": "Liverpool",
+    "photo": "https://cdn-img.staticzz.com/img/planteis/new/75/54/4507554_alisson_becker_20240419091353.png"
+  },
+  {
+    "id": 43,
+    "name": "Ederson",
+    "club": "Manchester City",
+    "photo": "https://monstersport.net/wp-content/uploads/2019/02/%D0%AD%D0%B4%D0%B5%D1%80%D1%81%D0%BE%D0%BD-%D0%9C%D0%BE%D1%80%D0%B0%D0%B5%D1%81-%D1%84%D1%83%D0%BB%D0%BB.png"
+  },
+  {
+    "id": 44,
+    "name": "Thibaut Courtois",
+    "club": "Real Madrid",
+    "photo": "https://img.uefa.com/imgml/TP/players/1/2026/cutoff/250011668.webp"
+  },
+  {
+    "id": 45,
+    "name": "Gianluigi Donnarumma",
+    "club": "PSG",
+    "photo": "https://b.fssta.com/uploads/application/soccer/headshots/31875.vresize.350.350.medium.1.png"
+  },
+  {
+    "id": 46,
+    "name": "Achraf Hakimi",
+    "club": "PSG",
+    "photo": "https://img.uefa.com/imgml/TP/players/1/2026/cutoff/250088061.webp"
+  },
+  {
+    "id": 47,
+    "name": "Ousmane Dembele",
+    "club": "PSG",
+    "photo": "https://b.fssta.com/uploads/application/soccer/headshots/39732.png"
+  },
+  {
+    "id": 48,
+    "name": "Marquinhos",
+    "club": "PSG",
+    "photo": "https://cdn-img.staticzz.com/img/planteis/new/28/75/10842875_marquinhos_20250602095836.jpg"
+  },
+  {
+    "id": 49,
+    "name": "Thomas Muller",
+    "club": "Bayern Munich",
+    "photo": "https://img.fcbayern.com/image/upload/f_auto/q_auto/t_cms-1x1-seo/v1629460334/cms/public/images/fcbayern-com/players/spielerportraits/ganzkoerper/thomas_mueller.png"
+  },
+  {
+    "id": 50,
+    "name": "Manuel Neuer",
+    "club": "Bayern Munich",
+    "photo": "https://img.uefa.com/imgml/TP/players/1/2026/cutoff/97923.webp"
+  }
+]
